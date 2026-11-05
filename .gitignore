@@ -1,0 +1,11 @@
+# ambiente virtual
+venv/
+
+# cache do Python e do pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# dados e relatórios de cobertura
+.coverage
+htmlcov/
